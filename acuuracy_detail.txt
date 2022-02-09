@@ -1,0 +1,31 @@
+prediction result:immature // file:('./validation\\immature\\data11_result.csv',)
+prediction result:immature // file:('./validation\\immature\\data14_result.csv',)
+prediction result:immature // file:('./validation\\immature\\data20_result.csv',)
+prediction result:immature // file:('./validation\\immature\\data6_result.csv',)
+prediction result:immature // file:('./validation\\immature\\data9_result.csv',)
+prediction result:mature // file:('./validation\\mature\\data15_result.csv',)
+prediction result:mature // file:('./validation\\mature\\data18_result.csv',)
+prediction result:mature // file:('./validation\\mature\\data19_result.csv',)
+prediction result:mature // file:('./validation\\mature\\data4_result.csv',)
+prediction result:mature // file:('./validation\\mature\\data8_result.csv',)
+
+
+tensor([[0.9997]], grad_fn=<SigmoidBackward0>)
+{('./validation\\immature\\data11_result.csv',)}
+tensor([[0.9997]], grad_fn=<SigmoidBackward0>)
+{('./validation\\immature\\data14_result.csv',)}
+tensor([[0.9994]], grad_fn=<SigmoidBackward0>)
+{('./validation\\immature\\data20_result.csv',)}
+tensor([[0.9998]], grad_fn=<SigmoidBackward0>)
+tensor([[0.9998]], grad_fn=<SigmoidBackward0>)
+{('./validation\\immature\\data9_result.csv',)}
+tensor([[0.0006]], grad_fn=<SigmoidBackward0>)
+{('./validation\\mature\\data15_result.csv',)}
+tensor([[0.0014]], grad_fn=<SigmoidBackward0>)
+{('./validation\\mature\\data18_result.csv',)}
+tensor([[0.0010]], grad_fn=<SigmoidBackward0>)
+{('./validation\\mature\\data19_result.csv',)}
+tensor([[0.0004]], grad_fn=<SigmoidBackward0>)
+{('./validation\\mature\\data4_result.csv',)}
+tensor([[0.0009]], grad_fn=<SigmoidBackward0>)
+{('./validation\\mature\\data8_result.csv',)}
